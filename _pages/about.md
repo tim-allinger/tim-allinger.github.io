@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ps.au.dk/'>Aarhus University</a>
+subtitle: <a href='https://ps.au.dk/en/'>Aarhus University</a>
 
 profile:
   align: right
