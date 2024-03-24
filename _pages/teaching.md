@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+**Political Institutions** <br>
+   BA Tutorials @Aarhus University *(Spring 2023)*
+
+**Advanced Bayesian Statistical Modeling in R and Stan** <br>
+   Teaching Assistance @GESIS Training Program *(November 2022, 3 days)*
+
+**Advanced Module Statistics (Social Sciences): Applied Regression Analysis** <br>
+   BA Tutorials @University of Cologne *(Spring 2020)*
+
+**Core Module Statistics (Social Sciences): Socioscientific Data Evaluation** <br>
+   BA Tutorials @University of Cologne *(Spring & Fall 2019)*
+
+
+
