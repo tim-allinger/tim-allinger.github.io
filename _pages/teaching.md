@@ -7,7 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-
+**Political Extremism: Understanding Citizens' Attitudes and Behaviours** <br>
+   MA Seminar @Aarhus University *(Fall 2024)*
 
 **Political Institutions** <br>
    BA Tutorials @Aarhus University *(Spring 2023)*
