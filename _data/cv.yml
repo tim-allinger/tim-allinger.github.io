@@ -8,21 +8,22 @@
     - name: Email
       value: allinger@ps.au.dk
 
-- title: Current Positions
+- title: Current Position
   type: time_table
   contents:
     - title: Ph.D. Candidate
       institution: Aarhus University, Denmark
-      year: 2022-2025
-    - title: Visiting Student Research Collaborator
-      institution: Princeton University, US
-      year: Spring 2024
-   
+      year: 2022-2025   
 
 
 - title: Education
   type: time_table
   contents:
+    - title: Visiting Research Collaborator 
+      institution: Princeton University, US
+      year: Spring 2024
+      description: The Mamdouha S. Bobst Center for Peace and Justice 
+        - with distinction
     - title: M.A. (Political Science)
       institution: University of Mannheim, Germany
       year: 2020-2022
