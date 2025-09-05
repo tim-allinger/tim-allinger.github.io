@@ -677,7 +677,7 @@ footer.sticky-bottom {
 
   h2.bibliography {
     color: var(--global-divider-color);
-    border-top: 2px solid var(--global-divider-color);
+    border-top: 2.5px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
@@ -1123,8 +1123,8 @@ swiper-container {
 
 .publications ol.bibliography li .row {
   border-bottom: 1px solid #ccc;   /* line under each publication */
-  padding-bottom: 20px;
-  margin-bottom: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .publications ol.bibliography li:last-child .row {
