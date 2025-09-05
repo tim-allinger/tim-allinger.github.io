@@ -1121,13 +1121,12 @@ swiper-container {
 
 
 
-.publications ol.bibliography li {
-  border-bottom: 1px solid #ccc;   /* grey line under each publication */
-  padding-bottom: 20px;            /* spacing before the line */
-  margin-bottom: 20px;             /* spacing after the line */
-  list-style-type: none;           /* removes numbering */
+.publications ol.bibliography li .row {
+  border-bottom: 1px solid #ccc;   /* line under each publication */
+  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
-.publications ol.bibliography li:last-child {
-  border-bottom: none;   /* don’t show line after the last entry in each list */
+.publications ol.bibliography li:last-child .row {
+  border-bottom: none;   /* no line after the last one */
 }
