@@ -67,11 +67,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: tim-allinger # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: tim_allinger
+x_username:
+bluesky_url: https://bsky.app/profile/did:plc:dbr7fdlmt7mejk3vgwpzs3az # your bluesky URL
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: X82Vf74AAAAJ&hl=de # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-0463-3855 # your ORCID ID
