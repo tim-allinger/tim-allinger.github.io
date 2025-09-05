@@ -2,7 +2,7 @@
 ---
 <div class="row">
   <!-- Entry bib key (text first) -->
-  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8 order-sm-1{% else %}col-sm-10{% endif %}">
+  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-6 order-sm-1{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
@@ -267,7 +267,7 @@
   </div>
 
   {% if site.enable_publication_thumbnails %}
-    <div class="col-sm-4 order-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+    <div class="col-sm-6 order-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
