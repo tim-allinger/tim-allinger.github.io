@@ -304,4 +304,6 @@
   {% endif %}
 </div>
 
-<hr>
+{% unless forloop.last %}
+  <hr>
+{% endunless %}
