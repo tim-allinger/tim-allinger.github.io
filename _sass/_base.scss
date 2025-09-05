@@ -678,7 +678,7 @@ footer.sticky-bottom {
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 2.5px solid var(--global-divider-color);
-    padding-top: 1rem;
+    padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: left;
@@ -687,7 +687,7 @@ footer.sticky-bottom {
   ol.bibliography {
     list-style: none;
     padding: 0;
-    margin-top: 1rem;
+    margin-top: 3rem;
 
     li {
       margin-bottom: 1rem;
