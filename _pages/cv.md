@@ -6,6 +6,4 @@ nav: true
 nav_order: 5
 cv_pdf: cv_allinger.pdf
 description:
-toc:
-  sidebar: left
 ---
