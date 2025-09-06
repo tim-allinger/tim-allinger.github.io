@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ps.au.dk/en/'>Aarhus University</a>
+subtitle: <a href='https://www.ipz.uzh.ch/en.html'>University of Zurich</a>
 
 profile:
   align: right
   image: prof_pic_tim.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building 1340, Room 134</p>
-    <p>Bartholins Allé 7</p>
-    <p>8000 Aarhus C</p>
+    <p>Room: H-356</p>
+    <p>Affolternstrasse 56</p>
+    <p>8050 Zurich</p>
     <br>
-    <p>Denmark</p>
+    <p>Switzerland</p>
     
 
 news: false # includes a list of news items
@@ -21,9 +21,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at the Department of Political Science at Aarhus University (Denmark), studying political extremism, violence against minority groups, and democratic norms more generally. I am particularly interested in the role of political institutions and experiences in their local environment in shaping citizens' perceptions of what is legitimate to do in a democracy. Currently, I investigate when citizens perceive attacks on minority groups and their rights as justified and under which conditions this translates into intolerant and extreme forms of behavior, specifically hate crimes.
+I am an incoming Postdoctoral Researcher at the Chair of Comparative Politics and Empirical Democracy Research at the University of Zurich. My research lies at the intersection of Comparative Politics and Political Behavior, addressing the growing challenges contemporary democracies face. I study how political and societal conflicts evolve within and beyond the electoral arena, examining the full spectrum of political participation - ranging from conventional practices to extremist and antidemocratic expressions. I am particularly interested in how political institutions and experiences in citizens' local environments shape their perceptions of legitimate political action, with a particular emphasis on violence against minority groups. 
 
-As part of the [DEMNORM project](https://demnorm.github.io/), I explore the relevance of social norms for democratic stability and how this helps us to better understand and encounter the challenges that democracies face around the world. 
+# As part of the [DEMNORM project](https://demnorm.github.io/), I explore the relevance of social norms for democratic stability and how this helps us to better understand and encounter the challenges that democracies face around the world. 
 
 To investigate this, my research relies on diverse quantitative methods with a focus on causal inference. Therefore, I develop innovative (quasi-)experimental designs, looking at citizens' attitudes and behaviors. 
 
