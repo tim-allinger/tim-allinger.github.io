@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cvtest
+title: teaching2
 nav: true
 nav_order: 5
 cv_pdf: cv_allinger.pdf
