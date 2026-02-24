@@ -25,3 +25,15 @@
 "arjona":
   - firstname: ["Tarek Jaziri", "Tarek J.", "TJ", "T.J.", "Tarek J"]
     url: https://www.eui.eu/people?id=tarek-jaziri-arjona
+    
+"leemann":
+  - firstname: ["Lucas"]
+    url: https://lucasleemann.ch
+    
+"ineichen":
+  - firstname: ["Jonas"]
+    url: https://www.ipz.uzh.ch/de/personen/mitarbeitende/jineic.html
+    
+"palmtag":
+  - firstname: ["Tabea"]
+    url: https://tabeapalmtag.com
