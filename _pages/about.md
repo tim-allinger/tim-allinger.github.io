@@ -9,7 +9,7 @@ profile:
   image: prof_pic_tim.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room: H-356</p>
+    <p>Room: H-301</p>
     <p>Affolternstrasse 56</p>
     <p>8050 Zurich</p>
     <br>

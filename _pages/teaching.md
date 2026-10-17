@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
+**Democratic Theories** <br>
+   BA Lecture @University of Zurich *(Fall 2026; with Hannah Werner)* [(Syllabus)]({{ site.baseurl }}/assets/pdf/demokratietheorien_syllabus_allinger.pdf)
+
 **Political Extremism: Understanding Citizens' Attitudes and Behaviours** <br>
    MA Seminar @Aarhus University *(Fall 2024)* [(Syllabus)]({{ site.baseurl }}/assets/pdf/extremism_syllabus_allinger.pdf)
 
